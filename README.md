@@ -5,4 +5,3 @@
 [![linkedin](https://img.shields.io/badge/linkedin.com/in/anum--sagheer-7A263A?style=flat)](https://www.linkedin.com/in/anum-sagheer/)
 &nbsp;[![email](https://img.shields.io/badge/anumsagheer02@gmail.com-7A263A?style=flat)](mailto:anumsagheer02@gmail.com)
 &nbsp;[![portfolio](https://img.shields.io/badge/portfolio-7A263A?style=flat)](https://anumsagheer.netlify.app)
-&nbsp;[![resume](https://img.shields.io/badge/resume-7A263A?style=flat)](https://anumsagheer.netlify.app)
