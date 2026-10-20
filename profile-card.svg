@@ -130,22 +130,22 @@
 <text x="475" y="378" font-family="'Palatino Linotype', Palatino, 'Book Antiqua', Baskerville, 'Iowan Old Style', Georgia, serif" font-size="14" fill="#7A263A" text-anchor="middle">1</text>
 <rect x="500" y="358" width="564" height="56" fill="#FBF7F1" rx="10" stroke="#7A263A" stroke-width="1" stroke-opacity="0.28"/>
 <text x="516" y="381" font-family="'Avenir Next', Avenir, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.8" fill="#4A3428" font-weight="700">Generative AI &amp; Agentic Systems</text>
-<text x="516" y="401" font-family="'Avenir Next', Avenir, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12.4" fill="#4A3428" fill-opacity="0.82">LLMs, RAG, LangGraph, AI Agents, Tool Calling, Fine-Tuning</text>
+<text x="516" y="401" font-family="'Avenir Next', Avenir, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12.4" fill="#4A3428" fill-opacity="0.82">RAG, LangGraph, LLM Agents, LLM Evaluation, Vector Search</text>
 <rect x="460" y="424" width="30" height="30" fill="#EFDCD6" rx="8"/>
 <text x="475" y="444" font-family="'Palatino Linotype', Palatino, 'Book Antiqua', Baskerville, 'Iowan Old Style', Georgia, serif" font-size="14" fill="#7A263A" text-anchor="middle">2</text>
 <rect x="500" y="424" width="564" height="56" fill="#FBF7F1" rx="10" stroke="#7A263A" stroke-width="1" stroke-opacity="0.28"/>
 <text x="516" y="447" font-family="'Avenir Next', Avenir, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.8" fill="#4A3428" font-weight="700">Machine Learning &amp; Experimentation</text>
-<text x="516" y="467" font-family="'Avenir Next', Avenir, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12.4" fill="#4A3428" fill-opacity="0.82">Classification, Forecasting, Anomaly Detection, A/B Testing, Model Evaluation</text>
+<text x="516" y="467" font-family="'Avenir Next', Avenir, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12.4" fill="#4A3428" fill-opacity="0.82">XGBoost, PyTorch, Forecasting, Computer Vision, A/B Testing</text>
 <rect x="460" y="490" width="30" height="30" fill="#EFDCD6" rx="8"/>
 <text x="475" y="510" font-family="'Palatino Linotype', Palatino, 'Book Antiqua', Baskerville, 'Iowan Old Style', Georgia, serif" font-size="14" fill="#7A263A" text-anchor="middle">3</text>
 <rect x="500" y="490" width="564" height="56" fill="#FBF7F1" rx="10" stroke="#7A263A" stroke-width="1" stroke-opacity="0.28"/>
 <text x="516" y="513" font-family="'Avenir Next', Avenir, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.8" fill="#4A3428" font-weight="700">Data Engineering &amp; Platforms</text>
-<text x="516" y="533" font-family="'Avenir Next', Avenir, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12.4" fill="#4A3428" fill-opacity="0.82">Python, SQL, PySpark, Databricks, Snowflake, ETL Pipelines</text>
+<text x="516" y="533" font-family="'Avenir Next', Avenir, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12.4" fill="#4A3428" fill-opacity="0.82">Python, SQL, PySpark, BigQuery, Snowflake, Data Pipelines</text>
 <rect x="460" y="556" width="30" height="30" fill="#EFDCD6" rx="8"/>
 <text x="475" y="576" font-family="'Palatino Linotype', Palatino, 'Book Antiqua', Baskerville, 'Iowan Old Style', Georgia, serif" font-size="14" fill="#7A263A" text-anchor="middle">4</text>
 <rect x="500" y="556" width="564" height="56" fill="#FBF7F1" rx="10" stroke="#7A263A" stroke-width="1" stroke-opacity="0.28"/>
-<text x="516" y="579" font-family="'Avenir Next', Avenir, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.8" fill="#4A3428" font-weight="700">MLOps, Cloud &amp; Deployment</text>
-<text x="516" y="599" font-family="'Avenir Next', Avenir, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12.4" fill="#4A3428" fill-opacity="0.82">MLflow, Docker, FastAPI, GitHub Actions, AWS, GCP</text>
+<text x="516" y="579" font-family="'Avenir Next', Avenir, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.8" fill="#4A3428" font-weight="700">Cloud &amp; Deployment</text>
+<text x="516" y="599" font-family="'Avenir Next', Avenir, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12.4" fill="#4A3428" fill-opacity="0.82">GCP, Vertex AI, Pub/Sub, Dataflow, Docker, FastAPI</text>
 <g transform="rotate(-1.4 862.0 698.0)">
 <rect x="663" y="641" width="404" height="124" fill="#4A3428" rx="2" fill-opacity="0.06"/>
 <rect x="660" y="636" width="404" height="124" fill="#EFE0C4" rx="2"/>
