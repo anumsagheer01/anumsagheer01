@@ -35,7 +35,7 @@ Analyzed randomized experiments using statistical testing, sample ratio checks, 
 ## Experience
 
 - **Graduate Assistant** — University of Maryland | 2024–2026
-- **Technology Risk / Data & AI Analyst** — EY | 2023–2024
+- **Analyst, Data & AI** — EY | 2023–2024
 - **Machine Learning Intern** — WorkOnGrid | 2022–2023
 
 ## Technical Skills
